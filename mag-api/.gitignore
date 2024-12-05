@@ -1,0 +1,15 @@
+# Dependências do Node.js
+node_modules/
+
+# Diretório Husky
+.husky
+
+# Diretórios de construção
+dist/
+
+# Configurações do Visual Studio Code
+.vscode/
+
+coverage/
+
+.env
